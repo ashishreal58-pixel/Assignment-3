@@ -1,4 +1,4 @@
-"name" : "Assignment-3",
+{"name" : "Assignment-3",
   "version": "1.0.0",
   "description": "Inventory and Data Management System for Web Dev III Assignment 3",
   "main": "server.js",
